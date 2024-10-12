@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "670ac98e1d2c4329a60fb996_35bbea28-7738-4c7c-8563-fed9f76f676e",
+  "id": "Factures_return_records",
+  "unpublishedCollection": {
+    "name": "return_records",
+    "pageId": "Factures",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      }
+    ]
+  }
+}
