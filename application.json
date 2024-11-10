@@ -2,7 +2,7 @@
   "appIsExample": false,
   "applicationDetail": {
     "navigationSetting": {
-      "colorStyle": "light",
+      "colorStyle": "theme",
       "logoAssetId": "",
       "logoConfiguration": "logoOnly",
       "navStyle": "sidebar",
@@ -23,13 +23,37 @@
   "evaluationVersion": 2,
   "pages": [
     {
+      "id": "Authentication",
+      "isDefault": false
+    },
+    {
+      "id": "Dashboard",
+      "isDefault": false
+    },
+    {
+      "id": "Orders",
+      "isDefault": false
+    },
+    {
+      "id": "Customers",
+      "isDefault": false
+    },
+    {
+      "id": "Products",
+      "isDefault": false
+    },
+    {
+      "id": "Returns",
+      "isDefault": false
+    },
+    {
       "id": "Factures",
       "isDefault": true
     }
   ],
   "unpublishedApplicationDetail": {
     "navigationSetting": {
-      "colorStyle": "light",
+      "colorStyle": "theme",
       "logoAssetId": "",
       "logoConfiguration": "logoOnly",
       "navStyle": "sidebar",
